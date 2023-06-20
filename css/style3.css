@@ -1,0 +1,35 @@
+.main {
+    margin: 20px 20px;
+    max-width: fit-content;
+    max-height: fit-content;
+    background-color: #f5f5f5;
+    padding: 25px 20px;
+    font-family:'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+dd {
+    margin-inline-start: 0;
+    margin-top: 20px;
+}
+
+dt {
+    margin-top: 20px;
+}
+
+.tag {
+    font-weight: 900;
+}
+
+ol {
+    margin-left: 40px;
+}
+
+.color-gray {
+    color: rgb(143, 143, 143);
+}
+
+.color-violet {
+    color:rgb(75, 28, 163);
+}
